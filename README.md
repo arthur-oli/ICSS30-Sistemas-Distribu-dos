@@ -1,2 +1,2 @@
-# ICSS30-Sistemas-Distribu-dos
+# ICSS30-Sistemas-Distribuidos
 Trabalhos da disciplina ICSS30
